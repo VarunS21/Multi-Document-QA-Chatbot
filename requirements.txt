@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain-chroma
+langchain-groq
+streamlit
+unstructured
+unstructured[pdf]
+sentence-transformers
+dotenv
+
+
