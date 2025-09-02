@@ -33,5 +33,14 @@ Multi-Document Q&A Chatbot is a smart system that automates information retrieva
 
 ## Screenshots
 
+![1](https://github.com/VarunS21/Multi-Document-QA-Chatbot/blob/b03a48e5f85cbbe45470579adc09ef7247d3ba7d/Doc%20Q%26A%201.png)
+
+![2](https://github.com/VarunS21/Multi-Document-QA-Chatbot/blob/b03a48e5f85cbbe45470579adc09ef7247d3ba7d/Doc%20Q%26A%202.png)
+
+![3](https://github.com/VarunS21/Multi-Document-QA-Chatbot/blob/b03a48e5f85cbbe45470579adc09ef7247d3ba7d/Doc%20Q%26A%203.png)
+
+![4](https://github.com/VarunS21/Multi-Document-QA-Chatbot/blob/b03a48e5f85cbbe45470579adc09ef7247d3ba7d/Doc%20Q%26A%204.png)
+
+![5](https://github.com/VarunS21/Multi-Document-QA-Chatbot/blob/b03a48e5f85cbbe45470579adc09ef7247d3ba7d/Doc%20Q%26A%205.png)
 
 
